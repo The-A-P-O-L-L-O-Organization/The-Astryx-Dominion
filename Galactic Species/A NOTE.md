@@ -1,0 +1,1 @@
+This world has all DND species and the ones added here. This section only serves to inform you of these species home worlds, star-nations they are in, specializations, and more. If a species is one I have made, it will also tell you their stats

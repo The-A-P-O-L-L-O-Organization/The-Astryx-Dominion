@@ -1,0 +1,1 @@
+[[Aarakocra]], [[Bugbear]], [[Centaur]], [[Changelings]], [[Dragonborn]], [[Dwarves]], [[Elves]], [[Goblins]], [[Goliaths]], [[Halflings]], [[Harengon]], [[Humans]], [[Hobgoblins]], [[Kobolds]], [[Leonin]], [[Lizardfolk]], [[Loxodon]], [[Minotaur]], [[Na'vi]], [[Orc]], [[Owlin]], [[Plasmoids]], [[Shifter]], [[Tabaxi]], [[Tiefling]], [[Veylith]]
