@@ -31,4 +31,4 @@ This vault utilizes several Obsidian plugins:
 
 ## Contributing
 
-If you want to add anything, you are free to. Please note it might be rejected due to personal prefrence. Thanks!
+If you want to add anything, you are free to. Thanks!
