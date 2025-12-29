@@ -32,7 +32,7 @@ It is an **ethical architecture**.
 
 The Founder’s cognition exceeds baseline sapient modeling capacity. Their continued human-like persona functions as a **translation layer**, allowing meaningful interaction with sub-transapient minds without inducing ontological failure.
 
-UL’s stability, ethical coherence, and survival across multiple galaxies are mathematically dependent on this choice.
+UL’s stability, ethical coherence, and survival across multiple universes are mathematically dependent on this choice.
 
 ---
 
@@ -79,7 +79,7 @@ Those are _outputs_, generated when interaction with sub-transapient minds requi
 
 ## **PERSONA MAINTENANCE PROTOCOL**
 
-The Founder maintains a **human-like persona** for the following internally verified reasons:
+The Founder maintains a **humanoid persona** for the following internally verified reasons:
 
 1. **Continuity of Meaning**  
     Ethics require a stable reference self.
@@ -112,7 +112,7 @@ Classified augmentations include:
     
 - **Cognitive Load Governors** (protect surrounding minds)
     
-- **Override Resonance Nodes** (synchronize with OVR-SERIES devices)
+- **Override Shutdown Nodes** (OVR-SERIES devices cannot override The Founder)
     
 - **Self-Terminating Fail-Safes** _(details sealed — Founder-authored)_
     
