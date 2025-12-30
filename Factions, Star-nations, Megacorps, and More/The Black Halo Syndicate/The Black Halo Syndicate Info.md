@@ -113,7 +113,7 @@ Your player’s character almost certainly came from here.
 
 ---
 
-## The Destroyed Planet (Player Backstory Tie)
+## The Destroyed Planet (Kris's PC Backstory Tie)
 
 From the Halo’s perspective, the planet wasn’t “destroyed.”
 
@@ -175,7 +175,7 @@ That moral rot makes them terrifyingly reasonable in conversation.
 
 ---
 
-## Relationship to the Player Character
+## Relationship to the Kris's PC
 
 The mob didn’t just hire him.
 
