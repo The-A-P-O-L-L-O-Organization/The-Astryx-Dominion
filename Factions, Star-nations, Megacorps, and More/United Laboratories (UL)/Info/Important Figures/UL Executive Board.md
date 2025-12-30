@@ -14,7 +14,7 @@ The UL Board is the **central governing council** for all corporate, operational
     
 2. **Subsidiary Representatives**
     - One rep per UL subsidiary:
-        - **United Tech, United Robotics, United BioWorks, United Quantum, United Security, United Transit, United Terraformation, United Academy, United Comms, United Games, United Engineering, United Cognition, United Archives, etc...**
+        - **United Tech, United Robotics, United BioWorks, United Quantum, United Security, United Transit, United Terraformation, United Education, United Comms, United Games, United Engineering, United Cognition, United Archives, etc...**
     - Representatives must have **Omega clearance**.
     - They vote on matters directly affecting their subsidiary, research approvals, and cross-subsidiary projects.
     - Present operational and fiscal reports quarterly.
