@@ -15,7 +15,7 @@
 
 ### **Overview**
 
-Elves are tall, slender humanoids with long lifespans, exceptional dexterity, and heightened senses. They possess **innate attunement to natural environments**, excellent pattern recognition, and an advanced capacity for both magical and technological integration.
+Elves are tall, slender humanoids with long lifespans, exceptional dexterity, and heightened senses. They possess **innate attunement to natural environments**, excellent pattern recognition, and an advanced capacity for both biological and technological integration.
 
 Physiologically, elves exhibit:
 

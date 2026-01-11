@@ -61,7 +61,7 @@ A unified, interconnected superstructure of three monumental research institutio
 
 ---
 
-### 🔄 **Central Conduit Core**
+### **Central Conduit Core**
 
 At the center of the Trinity: a **unifying core complex**, known as **The Singularity Chamber**, where breakthroughs that span all three disciplines are researched:
 

@@ -102,7 +102,7 @@ The Founder maintains a **humanoid persona** for the following internally verifi
 
 ## **AUGMENTATION STATUS (TRUE)**
 
-Publicly visible Omega Form V2 elements represent **<3%** of the subject’s total augmentation stack.
+Publicly visible Omega Form V2 elements represent **< 3%** of the subject’s total augmentation stack.
 
 Classified augmentations include:
 
