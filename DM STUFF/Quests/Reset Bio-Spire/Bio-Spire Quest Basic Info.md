@@ -1,1 +1,0 @@
-> A CHIMERA-X instance on a Bio-Spire has gone rogue. Your goal is to get to the Core of the spire where the CHIMERA-X instance is held and reset back to a point where it furthers UL's Mission.
