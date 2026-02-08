@@ -1,3 +1,10 @@
+---
+title: Simulacrum Withdrawal Syndrome (SWS)
+category: dm-stuff
+clearance: omega_prime
+tags: [neurological, UL-medical, Focus, withdrawal, cognitive, DM]
+summary: A UL-classified neurological condition caused by forced separation from an attuned Focus. Causes progressive cognitive and perceptual impairments, with recovery requiring reattunement or specialized intervention. Designed as a narrative and mechanical stake for DM use.
+---
 ## **Simulacrum Withdrawal Syndrome (SWS)**
 
 _Neurological Condition | Classified UL Medical Phenomenon_

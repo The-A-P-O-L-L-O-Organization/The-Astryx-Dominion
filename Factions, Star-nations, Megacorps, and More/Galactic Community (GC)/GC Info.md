@@ -1,3 +1,20 @@
+---
+title: Galactic Community — Internal Intelligence File
+category: ul-faction
+clearance: gamma_prime
+tags:
+  - ul
+  - faction
+  - gc
+  - galactic-community
+  - governance
+  - diplomacy
+  - interstellar-law
+  - regulatory
+  - conditional-enforcement
+  - strategic-assessment
+summary: Intelligence on the Galactic Community (GC), a galaxy-spanning interstellar governing framework. Assessed as a procedural stabilizer with low existential risk to UL; enforcement relies on UL’s presence and operational leverage.
+---
 ## UNITED LABORATORIES — INTERNAL INTELLIGENCE FILE
 
 **Faction Designation:** Galactic Community  

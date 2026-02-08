@@ -1,3 +1,20 @@
+---
+title: "United Laboratories Facility Dossier: HADAL Sub-Menagerie Alpha-12"
+category: ul-facility
+clearance: beta
+tags:
+  - facility
+  - hadal
+  - mutagen
+  - sub-menagerie
+  - omega-5
+  - abandoned
+  - oceanic
+  - hybrid
+  - containment
+summary: Deep-ocean UL facility originally designed for mutagen research and hybrid experimentation; decommissioned and abandoned, now considered a hazardous site with residual containment systems and unstable infrastructure.
+---
+
 ### **United Laboratories Facility Dossier — HADAL Sub-Menagerie Alpha-12 (Abandoned)**
 
 **Designation:** HADAL Sub-Menagerie Alpha-12  

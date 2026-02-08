@@ -1,3 +1,21 @@
+---
+title: Thalvok Dominion — Internal Intelligence File
+category: ul-faction
+clearance: theta_prime
+tags:
+  - ul
+  - faction
+  - thalvok
+  - dominion
+  - star-nation
+  - authoritarian
+  - militarized
+  - ideological-threat
+  - intelligence
+  - strategic-risk
+summary: Deep intelligence analysis of the Thalvok Dominion, an authoritarian, militarized star-nation hostile to UL’s hybrid and post-human operations. Classified as a high-probability ideological aggressor with moderate–high indirect existential risk to UL.
+---
+
 ## UNITED LABORATORIES — INTERNAL INTELLIGENCE FILE
 
 **Faction Designation:** Thalvok Dominion  

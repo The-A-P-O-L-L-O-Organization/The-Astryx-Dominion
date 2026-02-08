@@ -1,3 +1,10 @@
+---
+title: Humanitarian Observers Network — Internal Intelligence File
+category: ul-faction
+clearance: gamma-prime
+tags: [ul, faction, hon, humanitarian, observation, information-leverage, indirect-influence, crisis-monitoring, intelligence, strategic-assessment]
+summary: Comprehensive intelligence on the Humanitarian Observers Network, a decentralized trans-system monitoring network. Assessed as an operationally inconvenient but morally influential faction, with low existential risk and moderate long-term narrative impact on UL.
+---
 ## UNITED LABORATORIES — INTERNAL INTELLIGENCE FILE
 
 **Faction Designation:** Humanitarian Observers Network  

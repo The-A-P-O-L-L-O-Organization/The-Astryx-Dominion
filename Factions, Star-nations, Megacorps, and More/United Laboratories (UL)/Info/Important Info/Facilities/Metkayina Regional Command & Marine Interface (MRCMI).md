@@ -1,3 +1,11 @@
+---
+title: Metkayina Regional Coastal & Marine Node (MRCMI)
+category: ul-facility
+clearance: gamma
+tags: [facility, metkayina, lagoon, marine-ecology, reef-restoration, aquatic-research, cultural-liaison, skyfang, amphibious-operations, ul-field-base]
+summary: A UL-Metkayina co-managed coastal facility on Pandora designed for reef and lagoon restoration, marine ecology research, and cultural liaison. Emphasizes non-invasive architecture, dual-key governance, and environmentally sensitive operations while supporting amphibious Skyfang and submersible patrols under GC oversight.
+---
+
 **Region:** Metkayina Clan Coastal Territory, Pandora  
 **Primary Function:** Regional coordination for marine ecology, reef & lagoon restoration, aquatic research, and cultural liaison with the Metkayina Na’vi.  
 **Base Code:** HAL-MET / Genesis Vault Tag: MRCMI-002  

@@ -1,3 +1,5 @@
+
+
 Clearance levels follow the **Greek alphabet** hierarchy, with “Prime” variants denoting a higher tier. Access determines operational authority, AI interaction rights, and project knowledge.
 
 | **Clearance**          | **Description / Access**                                                                                        |

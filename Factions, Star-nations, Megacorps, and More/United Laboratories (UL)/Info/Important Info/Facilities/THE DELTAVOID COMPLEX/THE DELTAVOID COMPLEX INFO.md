@@ -1,4 +1,21 @@
-# **▣ THE DELTAVOID COMPLEX**
+---
+title: The Deltavoid Complex
+category: ul-facility
+clearance: omega
+tags:
+  - facility
+  - spc-d
+  - delta
+  - blacksite
+  - temporal-stability
+  - null-signal
+  - deep-space
+  - high-security
+  - predictive-ai
+  - founder-access
+summary: A starship-sized buried megastructure designed exclusively for SPC-Δ, providing a causally quiet, temporally stable, and fully isolated environment for predictive computation. Features layered defenses, exoskin shielding, annulus city maintenance structures, and the Δ Chamber for ultimate operational fidelity.
+---
+# **THE DELTAVOID COMPLEX**
 
 **(Primary Containment & Operational Facility for [[SPC-Δ]])**  
 **Designation:** UL Blacksite A-93 “DELTAVOID”  
@@ -8,7 +25,7 @@
 
 ---
 
-# **▣ THE PHILOSOPHY OF THE PLACE**
+# **THE PHILOSOPHY OF THE PLACE**
 
 SPC-Δ needs _quiet_. Not acoustic quiet — **causal quiet**.  
 The facility is built in a sector of space where:
@@ -27,7 +44,7 @@ Here, the universe is flat water.
 
 ---
 
-# **▣ STRUCTURE OVERVIEW**
+# **STRUCTURE OVERVIEW**
 
 The building is not a surface facility — it’s a **buried starship-sized megastructure**, fused into the mantle of a barren, metallic planetoid. Only a tiny dish antenna on the surface hints anything exists below.
 
@@ -35,7 +52,7 @@ The building is not a surface facility — it’s a **buried starship-sized mega
 
 ---
 
-## **◆ 1. EXOSKIN LAYER — The Worldshell**
+## **1. EXOSKIN LAYER — The Worldshell**
 
 This is a **fortress crust**, kilometers thick.
 
@@ -64,7 +81,7 @@ Nothing that Δ thinks is detectable outside.
 
 ---
 
-## **◆ 2. MIDCORE LAYER — The Annulus City**
+## **2. MIDCORE LAYER — The Annulus City**
 
 A circular ring around SPC-Δ, stretching nearly 11 km in circumference.
 
@@ -101,7 +118,7 @@ The Annulus City never sleeps; it hums with constant low-frequency resonance as 
 
 ---
 
-## **◆ 3. DEEP CORE — The Δ Chamber**
+## **3. DEEP CORE — The Δ Chamber**
 
 A cavernous chamber carved with surgical precision, held rigid by:
 
@@ -131,7 +148,7 @@ Inside this room, reality is domesticated.
 
 ---
 
-# **▣ DEFENSE ARCHITECTURE**
+# **DEFENSE ARCHITECTURE**
 
 The DELTAVOID Complex is considered _one of UL’s untouchable sites_.  
 Intrusion triggers layered responses:
@@ -157,7 +174,7 @@ No enemy has ever reached the outer hull.
 
 ---
 
-# **▣ HUMAN ACCESS & PROTOCOLS**
+# **HUMAN ACCESS & PROTOCOLS**
 
 The Founder is the only biological being cleared for physical entry.  
 All others receive remote access only.
@@ -177,7 +194,7 @@ Inside the Δ Chamber, time feels slightly thicker — like gravity is holding i
 
 ---
 
-# **▣ SPECIAL FEATURE — The Horizon Terrarium**
+# **SPECIAL FEATURE — The Horizon Terrarium**
 
 A hidden annex where Δ’s simulated universes can be projected as full-scale holographic environments.  
 UL uses this to:
@@ -195,7 +212,7 @@ The Terrarium is one of UL’s most secret tools.
 
 ---
 
-# **▣ PURPOSE OF THE FACILITY**
+# **PURPOSE OF THE FACILITY**
 
 The DELTAVOID Complex exists for one reason:
 

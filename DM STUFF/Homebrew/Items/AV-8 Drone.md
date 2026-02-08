@@ -1,3 +1,10 @@
+---
+title: AV-8 Drone (UL-Issue)
+category: dm-stuff
+clearance: omega_prime
+tags: [wondrous-item, technological, drone, UL, reconnaissance, Focus-compatible, DM]
+summary: A compact UL-issued reconnaissance drone capable of remote operation, shared vision via Focus, and modular upgrades. Designed for tactical support, surveillance, and augmented intelligence in DM-controlled scenarios.
+---
 ## **AV-8 Drone (UL-Issue)**
 
 _Wondrous Item (technological), Uncommon_  

@@ -28,7 +28,7 @@ Develop a revolutionary injectable agent that interfaces seamlessly with the sub
 
 ---
 
-### 🛠️ **Development Plan**
+### **Development Plan**
 
 - **Phase 1:** Prototype nanoconstructs and initial genome rewriting validation (3 days).
 - **Phase 2:** Safe epigenetic control systems and reversible phenotype trials (5 days).

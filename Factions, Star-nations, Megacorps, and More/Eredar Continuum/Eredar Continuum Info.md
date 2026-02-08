@@ -1,3 +1,20 @@
+---
+title: Eredar Continuum — Internal Intelligence File
+category: ul-faction
+clearance: omega
+tags:
+  - ul
+  - faction
+  - eredar
+  - fallen-civilization
+  - delta-tier
+  - dormant
+  - milky-way
+  - historical
+  - relic
+  - observation
+summary: Intelligence on the Eredar Continuum, a dormant Fallen Supercivilization in the Milky Way. Delta-tier tech, non-expansionist, poses no threat to UL; technology and knowledge are harvestable.
+---
 ## UNITED LABORATORIES — INTERNAL INTELLIGENCE FILE
 
 **Faction Designation:** Eredar Continuum  
@@ -6,7 +23,7 @@
 **Threat Index:** Minimal (Dormant / Technologically Outclassed)  
 **Operational Status:** Sleeping | Milky Way Core Region  
 **Primary Domain:** Pre‑Genesis Milky Way Remnants  
-**Clearance Required:** Omega Prime (Ω’) and above
+**Clearance Required:** Omega (Ω) and above
 
 ---
 

@@ -1,3 +1,17 @@
+---
+title: "Focus (Project: Second Sight)"
+category: dm-stuff
+clearance: omega_prime
+tags:
+  - wondrous-item
+  - wearable
+  - UL
+  - augmented-reality
+  - tactical-scan
+  - DM
+  - drone-integration
+summary: A wearable technological Focus that links to UL systems and AV-8 drones. Provides augmented awareness, tactical scanning, encrypted uplinks, and upgrade slots scaling with UL clearance. DM-controlled for narrative flexibility and operational stakes.
+---
 ## **Focus (Project: Second Sight)**
 
 _Wondrous Item (wearable, technological), Uncommon_  

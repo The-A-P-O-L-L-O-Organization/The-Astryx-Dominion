@@ -1,3 +1,17 @@
+---
+title: Andromedan Council (AC) — Internal Intelligence File
+category: ul-faction
+clearance: gamma_prime
+tags:
+  - ul
+  - ac
+  - andromeda
+  - federation
+  - gc-member
+  - diplomacy
+  - regional-power
+summary: Dossier on the Andromedan Council (AC), a multi-nation federation in the Andromeda Galaxy. Active GC member with moderate political influence, regional defense capabilities, and diplomatic coordination. UL engagement primarily through GC channels and selective intergalactic projects.
+---
 ## UNITED LABORATORIES — INTERNAL INTELLIGENCE FILE
 
 **Faction Designation:** Andromedan Council  

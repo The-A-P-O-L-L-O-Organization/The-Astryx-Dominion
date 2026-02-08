@@ -1,4 +1,17 @@
- # **AI Dossier: SYSTEM**
+---
+title: "AI Dossier: SYSTEM"
+category: ul-ai
+clearance: beta_prime
+tags:
+  - ai
+  - infrastructure
+  - united-laboratories
+  - core-intelligence
+  - system
+  - founder-linked
+summary: The primary sentient infrastructure intelligence of United Laboratories, governing all physical, digital, and conceptual operational environments across planetary and interstellar domains.
+---
+# **AI Dossier: SYSTEM**
 
 **Designation:** UL-AI-0001 “SYSTEM”  
 **Full Title:** _Sentient Integrated Synthetic Total Environment Matrix_  

@@ -1,3 +1,21 @@
+---
+title: Neutral Trade Coalition — Internal Intelligence File
+category: ul-faction
+clearance: delta_prime
+tags:
+  - ul
+  - faction
+  - neutral-trade-coalition
+  - ntc
+  - interstellar-commerce
+  - arbitration
+  - logistics
+  - economic-stabilizer
+  - intelligence
+  - strategic-assessment
+summary: Comprehensive intelligence on the Neutral Trade Coalition, a suprasovereign consortium regulating interstellar commerce. Assessed as a systems-stabilizing force with moderate structural threat, high operational friction, and low existential risk to UL.
+---
+
 ## UNITED LABORATORIES — INTERNAL INTELLIGENCE FILE
 
 **Faction Designation:** Neutral Trade Coalition  

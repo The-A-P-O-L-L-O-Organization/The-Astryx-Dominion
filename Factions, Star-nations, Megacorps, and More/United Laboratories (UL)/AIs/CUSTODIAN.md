@@ -1,3 +1,17 @@
+---
+title: "AI Dossier: CUSTODIAN PROTOCOL"
+category: ul-ai
+clearance: beta_prime
+tags:
+  - ai
+  - subroutine
+  - system
+  - operator-interface
+  - custodian
+  - united-laboratories
+summary: Founder-authorized mobile deployment subroutine of SYSTEM, enabling operators to extend UL infrastructure influence via quantum-anchored command interfaces and controlled glyph swarms.
+---
+
 # UL-AI-0001-A “CUSTODIAN PROTOCOL”
 
 **Full Title:** Founder-Authorized Subroutine of SYSTEM — Custodian Protocol  

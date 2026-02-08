@@ -1,3 +1,10 @@
+---
+title: Pandora Orbital Command & Research Station (PAN-PPC)
+category: ul-facility
+clearance: delta_prime
+tags: [facility, orbital, pandora, hallelujah-mountains, planetary-command, gaia-nodes, genesis-vault, research-hub, eywa-interface, hybrid-labs, founder-oversight]
+summary: A UL orbital station above Pandora serving as the central command node for all regional bases, GC enforcement, orbital logistics, advanced research, and planetary defense. Designed for secure collaboration with GC observers, Na’vi envoys, and Founder oversight while enabling high-risk experiments, Eywa-interface studies, and hybrid trials in controlled orbital environments.
+---
 **Location:** Geostationary orbit above Pandora’s equator, aligned over the Hallelujah Mountains to maintain direct relay with the densest cluster of ground bases.  
 **Primary Function:** System-wide command and control, orbital logistics, research hub, and GC enforcement relay.  
 **Base Code:** PAN-PPC / Genesis Vault Tag: UL-PANDORA-COMMAND  

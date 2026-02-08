@@ -1,3 +1,21 @@
+---
+title: "United Laboratories Facility Dossier: HADAL-Ω (Next-Generation Sub-Menagerie)"
+category: ul-facility
+clearance: beta
+tags:
+  - facility
+  - hadal
+  - mutagen
+  - sub-menagerie
+  - omega-5
+  - active
+  - oceanic
+  - hybrid
+  - containment
+  - ai-controlled
+summary: Ultra-deep Hadal Trench facility for advanced mutagen research, hybrid creation, and containment. Fully automated, AI-managed, and scalable for extreme deep-sea experimentation; serves as the flagship successor to HADAL Sub-Menagerie Alpha-12.
+---
+
 ### **United Laboratories Facility Dossier — HADAL-Ω (Next-Generation Sub-Menagerie)**
 
 **Designation:** HADAL-Ω (Omega)  

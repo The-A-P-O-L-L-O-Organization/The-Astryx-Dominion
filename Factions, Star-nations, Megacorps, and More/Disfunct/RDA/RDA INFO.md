@@ -1,3 +1,19 @@
+---
+title: Resource Development Administration (RDA) — Internal DB Entry
+category: ul-faction
+clearance: gamma_prime
+tags:
+  - ul
+  - rda
+  - former-megacorporation
+  - planetary-stewardship
+  - dissolution
+  - alpha-centauri
+  - gc-tribunal
+  - ethical-restoration
+summary: Historical dossier on the dissolved Resource Development Administration (RDA). Assets, infrastructure, and oversight transferred to UL following GC tribunal findings of environmental and sentient-life crimes. UL now maintains custodial stewardship and ethical remediation.
+---
+
 ## RESOURCE DEVELOPMENT ADMINISTRATION (RDA) — INTERNAL DB ENTRY
 
 **Faction Designation:** RDA / Ex-RDA  

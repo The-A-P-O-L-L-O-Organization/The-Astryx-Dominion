@@ -1,3 +1,11 @@
+---
+title: Mangkwan Regional Command & Defensive Node (MRCDN)
+category: ul-facility
+clearance: gamma_prime
+tags: [facility, mangkwan, ashlands, defensive-operations, command-node, stealth-installation, skyfang, ul-defense-corps, obscura-array]
+summary: A UL regional command and defensive facility positioned on the periphery of Mangkwan clan territory in Pandora’s Ashlands. Designed for concealed command-and-control, rapid-response defense, and tactical research while minimizing cultural interference and maintaining strict GC oversight.
+---
+
 **Region:** Mangkwan Clan Territory (Ashlands) — peripheral emplacement  
 **Primary Function:** Regional command & control, defensive operations, tactical research, and secure staging for rapid-response units in the Ashlands.  
 **Base Code:** HAL-MGW / Genesis Vault Tag: MRCDN-003  

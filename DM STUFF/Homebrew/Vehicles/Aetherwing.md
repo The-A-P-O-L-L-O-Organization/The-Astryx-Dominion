@@ -1,3 +1,17 @@
+---
+title: Aetherwing — Personal Multi-Environment Vehicle
+category: dm-stuff
+clearance: omega_prime
+tags:
+  - vehicle
+  - hover-bike
+  - multi-environment
+  - UL
+  - personal
+  - submersible
+  - hybrid-compatible
+summary: Detailed technical dossier for the Aetherwing personal multi-environment hover-bike. Features hover, flight, submersible operation, environmental protection, and optional weapon modules. Neural-link and hybrid queue-compatible controls.
+---
 ### **Aetherwing — Personal Multi-Environment Vehicle**
 
 _Vehicle (hover-bike), requires 1 rider_

@@ -1,3 +1,17 @@
+---
+title: "AI Dossier: SHADOW"
+category: ul-ai
+clearance: beta
+tags:
+  - ai
+  - security
+  - cyberwarfare
+  - defense
+  - offense
+  - united-laboratories
+  - counter-ai
+summary: United Laboratories’ primary autonomous security intelligence, responsible for cyber defense, offensive countermeasures, and neutralization of hostile AIs, rogue systems, and security breaches across all UL domains.
+---
 # **AI DOSSIER — SHADOW**
 
 **Designation:** UL-AI-0002 “SHADOW”  

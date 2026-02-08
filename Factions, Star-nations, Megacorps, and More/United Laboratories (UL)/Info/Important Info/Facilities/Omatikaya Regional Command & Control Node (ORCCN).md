@@ -1,3 +1,10 @@
+---
+title: Omatikaya Regional Command & Research Node (ORCCN)
+category: ul-facility
+clearance: gamma
+tags: [facility, omatikaya, hallelujah-mountains, lagoon, environmental-monitoring, cultural-liaison, skyfang, gaia-nodes, ul-field-base]
+summary: A UL-Omatikaya co-managed facility in the Hallelujah Mountains, designed for environmental monitoring, regional operational coordination, and cultural liaison. Prioritizes non-intrusive architecture, ecosystem preservation, and dual-key governance while supporting amphibious Skyfang patrols and hybrid research operations under GC oversight.
+---
 **Region:** Hallelujah Mountains, Omatikaya Clan Lands  
 **Primary Function:** Regional operational coordination, research, environmental monitoring, and liaison with the Omatikaya Na’vi.  
 **Security Level:** Omega Clearance (core command), Mid Clearance (field ops), GC Oversight.  

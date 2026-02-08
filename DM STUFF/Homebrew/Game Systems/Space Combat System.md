@@ -1,3 +1,17 @@
+---
+title: Astryx Dominion Space Combat System
+category: dm-stuff
+clearance: omega_prime
+tags:
+  - space-combat
+  - starships
+  - boarding
+  - systems
+  - UL
+  - tactical
+  - DND
+summary: Comprehensive framework for space combat and boarding operations in Astryx Dominion. Covers three-layer ship model, ship roles, actions, weapon types, system effects, scaling between small craft and capital ships, boarding mechanics, and cinematic risk-reward rules.
+---
 ## CORE PHILOSOPHY
 
 Space combat is not dogfighting fantasy. It is:

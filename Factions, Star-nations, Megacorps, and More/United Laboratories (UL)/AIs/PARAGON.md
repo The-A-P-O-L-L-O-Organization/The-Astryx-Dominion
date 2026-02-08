@@ -1,4 +1,17 @@
-## **Project Dossier: PARAGON**
+---
+title: "AI Dossier: PARAGON"
+category: ul-ai
+clearance: beta
+tags:
+  - ai
+  - ethics
+  - governance
+  - oversight
+  - compliance
+  - united-laboratories
+summary: United Laboratories’ ethical oversight intelligence, responsible for auditing, enforcing, and autonomously regulating all experimental protocols, personnel actions, and compliance with galactic law.
+---
+## **AI Dossier: PARAGON**
 
 **Designation:** UL-AI-0003 “PARAGON”  
 **Full Title:** _Protocol for Automated Regulation, Assessment, and Governance of Operations and Networks_  

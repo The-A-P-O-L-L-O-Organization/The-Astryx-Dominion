@@ -1,3 +1,10 @@
+---
+title: Kame’tire Regional Operations & Stewardship Node (KROSN)
+category: ul-facility
+clearance: gamma
+tags: [facility, kametire, ecological-stewardship, agro-ecology, medical-aid, cultural-integration, western-frontier, skyfang, gaia-nodes, ul-field-base]
+summary: A UL-Kame’tire co-managed field facility on Pandora’s Western Frontier, focused on long-range reconnaissance, agro-ecology trials, medical support, and culturally respectful stewardship. Designed for low-impact observation and cooperation, preserving sacred corridors and clan autonomy while enabling training, restoration, and research programs.
+---
 **Region:** Kame’tire Clan Lands, Western Frontier (Pandora)  
 **Primary Function:** Regional coordination for long-range reconnaissance, agro-ecology trials, medical aid, and culturally respectful stewardship with the Kame’tire clan.  
 **Base Code:** WFR-KAM / Genesis Vault Tag: KROSN-005  

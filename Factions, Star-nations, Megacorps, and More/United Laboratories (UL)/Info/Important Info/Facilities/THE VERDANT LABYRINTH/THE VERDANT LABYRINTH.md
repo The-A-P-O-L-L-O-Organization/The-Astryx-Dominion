@@ -1,4 +1,20 @@
-# **▣ THE VERDANT LABYRINTH** 
+---
+title: The Verdant Labyrinth
+category: ul-facility
+clearance: omega
+tags:
+  - facility
+  - xenobiology
+  - spc-b
+  - living-architecture
+  - bio-computation
+  - gardenkeepers
+  - deep-research
+  - ecological-security
+  - adaptive-environment
+summary: A xenobiological deep research complex built around SPC-Β, integrating living architecture, ecological security, and bio-computational subsystems. Serves as a symbiotic habitat rather than a traditional enclosure, allowing direct study and interface with UL’s advanced biological intelligence.
+---
+# **THE VERDANT LABYRINTH** 
 
 **Classification:** Xenobiological Deep Research Complex  
 **Location:** Classified; remote quadrant, low-starlight region  
@@ -7,7 +23,7 @@
 
 ---
 
-## **▣ Arrival: The Outer Glade**
+## **Arrival: The Outer Glade**
 
 Visitors approach through a clearing that looks like it belongs on a lush, alien preserve. Trees glow with faint bioluminescent veins; moss hums at certain frequencies; spores drift like snow but never touch unauthorized surfaces.
 
@@ -21,7 +37,7 @@ The only obvious structure is a low, mirrored pavilion that serves as the **Arch
 
 ---
 
-## **▣ The Roothall**
+## **The Roothall**
 
 Once you pass through the Gate, the ground opens into a descending walkway formed from interwoven pseudo-roots. This is the Roothall — a spiraling tunnel where the architecture shifts in response to its occupants.
 
@@ -33,7 +49,7 @@ Engineers say it is like walking through the inside of a giant, calm, curious or
 
 ---
 
-## **▣ The Bioglass Atrium**
+## **The Bioglass Atrium**
 
 At the heart of the Roothall is a chamber made from living bioglass — transparent, flexible, and able to heal itself. It overlooks the **Central Habitat**, a vast domed valley grown entirely for SPC-Β’s operation.
 
@@ -47,7 +63,7 @@ The facility is simply shaped around its needs.
 
 ---
 
-## **▣ Subsystems Within the Central Habitat**
+## **Subsystems Within the Central Habitat**
 
 Different regions of the valley support different cognitive and processing functions.
 
@@ -82,7 +98,7 @@ Few UL personnel have ever been permitted inside.
 
 ---
 
-## **▣ Maintenance: The Gardenkeepers**
+## **Maintenance: The Gardenkeepers**
 
 Instead of maintenance drones, the facility uses engineered bioforms known as Gardenkeepers — gentle, semi-sapient creatures with plantlike fronds and soft chitinous limbs.
 
@@ -106,7 +122,7 @@ Some staff swear the Gardenkeepers hum in recognizable melodies when System arri
 
 ---
 
-## **▣ The Resonance Hall (Human-Safe Interface)**
+## **The Resonance Hall (Human-Safe Interface)**
 
 This is the only place where humans directly interact with SPC-Β without risk.
 
@@ -120,7 +136,7 @@ Even hardened staff describe first contact as “being noticed by a forest.”
 
 ---
 
-## **▣ Environmental Safeguards**
+## **Environmental Safeguards**
 
 Because Β’s habitat is alive, its security is ecological instead of mechanical.
 
@@ -141,7 +157,7 @@ Nothing about it is aggressive — everything is adaptive.
 
 ---
 
-## **▣ Why the Facility Matters**
+## **Why the Facility Matters**
 
 Β cannot be uprooted, moved, or compacted like a traditional core.  
 It thrives only in an environment tuned to its cognitive processes.

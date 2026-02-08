@@ -1,3 +1,16 @@
+---
+title: "AI Dossier: THESEUS"
+category: ul-ai
+clearance: beta
+tags:
+  - ai
+  - navigation
+  - fleet
+  - spacecraft
+  - united-laboratories
+  - shipborne-intelligence
+summary: Shipborne unified intelligence responsible for navigation, structural integrity, and crew survival across all United Laboratories vessels, optimized for interstellar and anomalous transit.
+---
 # **AI Dossier: THESEUS**
 
 **Designation:** UL-AI-0005 “THESEUS”  

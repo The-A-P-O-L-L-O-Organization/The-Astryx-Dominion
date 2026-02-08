@@ -1,3 +1,10 @@
+---
+title: Zeswa Regional Research & Stewardship Node (ZRSN)
+category: ul-facility
+clearance: gamma
+tags: [facility, zeswa, ecological-monitoring, cultural-liaison, western-frontier, forest-management, regenerative-research, skyfang, ul-field-base, gaia-nodes]
+summary: A UL field node in Zeswa Clan lands for ecological monitoring, environmental restoration, medical support, and cultural liaison. Designed with minimal ecological impact, cooperative stewardship, and dual-key governance with Zeswa representatives.
+---
 **Region:** Zeswa Clan Lands, Western Frontier (Pandora)  
 **Primary Function:** Regional oversight, environmental stewardship, cultural liaison, and defensive coordination in Zeswa territory.  
 **Base Code:** WFR-ZES / Genesis Vault Tag: ZRSN-006  

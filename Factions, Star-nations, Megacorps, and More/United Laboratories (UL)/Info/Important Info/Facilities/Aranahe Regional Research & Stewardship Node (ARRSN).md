@@ -1,3 +1,20 @@
+---
+title: Aranahe Regional Research & Stewardship Node (ARRSN)
+category: ul-facility
+clearance: gamma
+tags:
+  - facility
+  - aranahe
+  - ecological-restoration
+  - ethnobotany
+  - forest-management
+  - cultural-integration
+  - western-frontier
+  - skyfang
+  - gaia-nodes
+  - ul-field-base
+summary: A UL-Aranahe co-managed field facility on Pandora’s Western Frontier, focused on ecological restoration, regenerative forestry, ethnobotanical research, and cooperative stewardship. Designed with transparent reciprocity to respect clan rituals, songlines, and sacred corridors while enabling high-value scientific research and training programs.
+---
 **Region:** Aranahe Clan Territory, Western Frontier (Pandora)  
 **Primary Function:** Regional coordination for ecological restoration, ethno-botanical research, regenerative forestry, and cooperative stewardship with the Aranahe clan.  
 **Base Code:** WFR-ARA / Genesis Vault Tag: ARRSN-004  

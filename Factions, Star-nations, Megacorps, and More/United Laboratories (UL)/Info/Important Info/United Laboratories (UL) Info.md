@@ -1,3 +1,10 @@
+---
+title: United Laboratories — Internal Intelligence File
+category: ul-faction
+clearance: beta
+tags: [ul, faction, megacorp, governance, enforcement, galactic, genesis-galaxy, paragovernmental, strategic, intelligence]
+summary: Comprehensive internal dossier on United Laboratories (UL), detailing operational reach, governance, enforcement protocols, galactic presence, and strategic posture. Includes both Milky Way, Andromeda, and Genesis Galaxy operations.
+---
 ## UNITED LABORATORIES — INTERNAL INTELLIGENCE FILE
 
 **Faction Designation:** United Laboratories  

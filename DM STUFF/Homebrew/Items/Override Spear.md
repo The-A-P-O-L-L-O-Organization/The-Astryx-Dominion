@@ -1,3 +1,10 @@
+---
+title: Override Spear
+category: dm-stuff
+clearance: omega_prime
+tags: [weapon, spear, UL, clearance, authority-interface, DM, construct-control]
+summary: A clearance-reflective spear that channels United Laboratories authority. Effects scale with the wielder's UL clearance level, allowing control over constructs, protocols, and systems. DM-controlled for narrative flexibility.
+---
 ## **Override Spear**
 
 _Weapon (spear), uncommon (requires attunement by a cleared individual)_

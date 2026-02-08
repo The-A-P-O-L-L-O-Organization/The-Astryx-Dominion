@@ -1,3 +1,16 @@
+---
+title: "AI Dossier: NOVA"
+category: ul-ai
+clearance: beta
+tags:
+  - ai
+  - interface
+  - assistant
+  - persona-ai
+  - user-facing
+  - united-laboratories
+summary: Adaptive persona-layer intelligence serving as the primary user-facing interface to SYSTEM, translating authoritative operational intelligence into approachable, customizable, and emotionally adaptive interaction.
+---
 # **AI DOSSIER — NOVA**
 
 **Designation:** UL-AI-0004 “Nova”  
