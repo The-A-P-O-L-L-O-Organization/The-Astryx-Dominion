@@ -232,16 +232,7 @@ This allows UL to **appear cooperative while remaining autonomous**.
 
 ---
 
-### 10. SYSTEM Annotation (Restricted)
-
-> “The Galactic Community issues decrees.  
-> They do not wield fleets.  
-> Compliance is maintained only because **we do**.  
-> Authority without enforcement is merely suggestion; UL provides the threat that converts suggestion into action.”
-
----
-
-### 11. Classification Summary
+### 10. Classification Summary
 
 - **Faction Type:** Interstellar Governing Body
     
@@ -253,6 +244,121 @@ This allows UL to **appear cooperative while remaining autonomous**.
     
 - **Utility:** High (Diplomatic / Stabilization)
     
+
+---
+
+### 11. Galactic Community — Member States & Affiliates
+
+The GC is a multi-galactic consortium; membership spans **Milky Way, Andromeda, and Genesis Galaxies**, with a mix of **independent star-nations, megacorporations, federations, and paragovernmental entities**. Enforcement and influence vary based on capability.
+
+#### 11.1 Core Member States (Recognized Star-Nations)
+
+- **United Laboratories (UL)** — Multi-galactic paragovernmental entity; Milky Way, Andromeda, Genesis Galaxy
+    
+    - Status: Paragovernmental, recognized, non-subordinate
+        
+    - Influence: De facto enforcer; shapes GC norms, legislation, and conflict arbitration
+        
+    - Notes: Operates across all member galaxies; retains autonomy over Tier I/Origin-level projects
+        
+- **Andromedan Council** — Federation of star-nations in the Andromeda Galaxy
+    
+    - Status: Member state
+        
+    - Notes: Regional diplomatic coordination; largely consensus-driven; occasionally defers to UL enforcement
+        
+- **Neutral Trade Coalition (NTC)** — Multi-system mercantile consortium
+    
+    - Status: Member state
+        
+    - Notes: Primarily economic actor; participates in trade law committees; compliance often incentivized rather than enforced
+        
+- **Thalvok Dominion** — Xenophobic, militarist star-nation in the Milky Way
+    
+    - Status: Member state (reluctant / begrudging)
+        
+    - Notes: Ideological conflicts with UL; UL deterrence prevents direct confrontation; participates nominally in GC vote
+        
+- **RDA Successor Entities** — Assets formerly managed by the Resource Development Administration
+    
+    - Status: Subsidiary / planetary stewardship under UL custodial mandate
+        
+    - Notes: GC recognizes UL oversight as legal successor; no autonomous participation
+        
+- **Black Halo Syndicate** — Criminal collapse-economics syndicate
+    
+    - Status: Non-member; indirectly observed
+        
+    - Notes: Monitored for intelligence; narrative-level risk; cannot directly oppose UL
+        
+
+---
+
+#### 11.2 Secondary Member States (Regional Powers)
+
+- **Andromedan Star-Nations (Individual)** — Smaller independent planets/federations within Andromeda
+    
+    - Status: Full members; influence proportional to fleet/technology
+        
+    - Compliance: Dependent on UL deterrence presence; autonomous internally
+        
+- **Milky Way Core Federations** — Multi-system federations in the Milky Way
+    
+    - Status: Full members; subject to GC legislation
+        
+    - Notes: Often defer to UL enforcement for conflict resolution
+        
+- **Genesis Galaxy Civilizations** — Independent or semi-independent star-systems
+    
+    - Status: Recognized under GC, but UL maintains **presence in all systems**
+        
+    - Notes: Any refusal to allow UL access results in **military enforcement or system takeover**; GC law nominally applies, but UL authority is absolute
+        
+
+---
+
+#### 11.3 Non-Member Observers / Affiliated Entities
+
+- Megacorporations with interstellar reach
+    
+- Paragovernmental research and humanitarian organizations
+    
+- Regional alliances and planetary coalitions
+    
+- Status: Can participate in councils as observers; lack formal vote but may influence legislation indirectly
+    
+
+---
+
+#### 11.4 Enforcement Dynamics Among Members
+
+- **UL Role:** Primary executor of GC rulings when member states lack fleet or megastructure capacity
+    
+- **Secondary Enforcement:** Capable member-states may enforce specific mandates; UL arbitrates disputes if delegated authority is contested
+    
+- **Compliance Incentive:** Lesser powers follow GC mandates largely due to **UL deterrence** rather than intrinsic GC coercive power
+    
+
+---
+
+#### 11.5 UL Multi-Galactic Reach
+
+- **Milky Way:** Headquarters and multiple controlled star-systems; participates directly in GC and enforces compliance
+    
+- **Andromeda:** Presence via Andromedan Council integration and UL-administered systems; regional oversight enforced
+    
+- **Genesis Galaxy:** Full UL operational authority; all systems subject to UL presence, enforcement, and security protocols
+    
+    - Any system attempting to resist UL presence is subject to **fleet intervention and occupation**
+        
+    - GC mandates are observed formally, but UL retains **absolute operational autonomy**
+        
+
+---
+
+**SYSTEM Annotation (Restricted):**
+
+> “The Galactic Community is a network of states, federations, and corporations. Authority is symbolic without UL. Where we stand, the GC has teeth; elsewhere, it is ceremonial. Our presence converts law into action across three galaxies.”
 
 ---
 
