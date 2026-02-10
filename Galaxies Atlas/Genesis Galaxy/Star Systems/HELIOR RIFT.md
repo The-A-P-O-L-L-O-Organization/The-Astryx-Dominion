@@ -1,3 +1,16 @@
+---
+title: "Star System Dossier: The Helior Rift"
+category: galactic-atlas
+clearance: gamma
+tags:
+  - star-system
+  - crisis-zone
+  - engineered-scarcity
+  - stellar-anomaly
+  - ethical-conflict
+summary: A classified overview of the Helior Rift system, documenting non-natural stellar energy siphoning, asymmetric planetary survival outcomes, and the resulting political and ethical implications.
+---
+
 # **Star System Dossier: The Helior Rift**
 
 **UL Designation:** HR-771  
@@ -202,72 +215,8 @@ No recovery has been possible.
 
 ---
 
-## **Heliophage Array (Solar Siphon Station)**
-
-**Designation:** Heliophage Array  
-**Classification:** Stellar Extraction Infrastructure  
-**Location:** High stellar orbit, partially phased  
-**Scale:** Capital-ship class  
-**Power State:** Effectively infinite while connected
-
-### **Structure & Function**
-
-- Gravitational anchor pylons stabilize orbit
-    
-- Energy extraction filaments comb the star’s surface
-    
-- Hyper-relay cores route energy directly to Aurelion Prime
-    
-- Internal environments fluctuate between extreme heat and cryogenic cold
-    
-
-This is not a Dyson structure.  
-It is a **stellar leech**.
-
-### **Operational Zones**
-
-1. **Outer Ring — Maintenance Halo**  
-    Zero-g, automated defenses, evidence of sabotage
-    
-2. **Energy Spine**  
-    Radiation hazards, overloaded conduits, lethal brilliance
-    
-3. **Control Sanctum**  
-    Heliarch command, stellar flow monitors, override networks
-    
-4. **Core Intake**  
-    Direct stellar exposure, time distortion, containment instability
-    
-
-### **Critical Risk**
-
-Rapid shutdown may cause stellar flare events or permanent stellar damage.  
-The system cannot be “fixed” without consequence.
-
----
-
-## **System Dynamics & Conflict State**
-
-- Energy scarcity is artificially enforced
-    
-- Survival is politically stratified
-    
-- Truth is geographically expensive
-    
-- No solution preserves all worlds
-    
-
-UL maintains observational distance, though internal override authority exists.
-
-The Helior Rift is not collapsing by accident.  
-It is functioning **exactly as designed**.
-
----
-
 ## **Strategic Importance**
 
-- Demonstrates the dangers of stellar-scale infrastructure misuse
-    
 - Acts as a political and ethical stress test for UL intervention doctrine
     
 - Serves as a long-term destabilization risk if left unresolved

@@ -1,3 +1,18 @@
+---
+title: Tempestus System Dossier — Typhon
+category: galactic-atlas
+clearance: gamma
+project: Atmospheric & Energy Operations
+tags:
+  - Tempestus
+  - B-type-Star
+  - Gas-Giant
+  - UL-Cauldron
+  - Storm-Research
+  - AETHER-Integration
+summary: Gamma-level dossier on the Tempestus system, Typhon gas giant, and UL Cauldron operations. Focused on observation, monitoring, and safe operational awareness for UL employees. High-level AI and rogue constructs are excluded.
+---
+
 # **Tempestus System Dossier — Typhon**
 
 **System Designation:** Tempestus (Sector A-17)  

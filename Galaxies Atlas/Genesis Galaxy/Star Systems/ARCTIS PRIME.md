@@ -1,3 +1,19 @@
+---
+title: "System Dossier: Arctis Prime"
+category: galactic-atlas
+clearance: gamma
+tags:
+  - UL
+  - star-system
+  - planetary-network
+  - research-hub
+  - energy-production
+  - hybrid-research
+  - asteroid-belts
+  - helium-3
+summary: Comprehensive system-level dossier on Arctis Prime, a multi-planetary UL-controlled star system serving as a major administrative, research, energy, and defense hub. Features diverse habitable worlds, advanced asteroid-belt operations, and extensive experimental infrastructure.
+---
+
 # **System Dossier: Arctis Prime**
 
 **Primary Star:** Arctis  
@@ -11,12 +27,12 @@
 
 ## **Planetary Overview**
 
-|Planet|Type|Orbital Distance|Gravity|Day Length|Notable Features|
-|---|---|---|---|---|---|
-|**Virelia**|Temperate terrestrial|1.12 AU|1.01 g|25.3 h|Administrative HQ; bioluminescent forests; hybrid research; Undergrid megastructures; orbital defense nodes|
-|**Phaenara**|Oceanic, habitable-class|2.35 AU|1.03 g|27.6 h|Water world; archipelagos with research labs; hydro-adaptive AI; energy from ocean currents; moons Lorynth & Velura|
-|**Xandros**|Rocky-terrestrial, partially terraformed|3.92 AU|1.12 g|19.4 h|Deserts and canyons; tactical simulation & drone ranges; cliffside fortresses; terraforming experiments|
-|**Jurelia**|Gas giant|5.6 AU|2.3 G (cloud tops)|N/A|Helium-3 harvesting; storm and aerodynamics research; floating platforms; moons Thalmar, Nivessa, Corvyn, Althira|
+| Planet       | Type                                     | Orbital Distance | Gravity            | Day Length | Notable Features                                                                                                    |
+| ------------ | ---------------------------------------- | ---------------- | ------------------ | ---------- | ------------------------------------------------------------------------------------------------------------------- |
+| **Virelia**  | Temperate terrestrial                    | 1.12 AU          | 1.01 g             | 25.3 h     | Administrative HQ; bioluminescent forests; hybrid research; Undergrid megastructures; orbital defense nodes         |
+| **Phaenara** | Oceanic, habitable-class                 | 2.35 AU          | 1.03 g             | 27.6 h     | Water world; archipelagos with research labs; hydro-adaptive AI; energy from ocean currents; moons Lorynth & Velura |
+| **Xandros**  | Rocky-terrestrial, partially terraformed | 3.92 AU          | 1.12 g             | 19.4 h     | Deserts and canyons; tactical simulation & drone ranges; cliffside fortresses; terraforming experiments             |
+| **Jurelia**  | Gas giant                                | 5.6 AU           | 2.3 G (cloud tops) | N/A        | Helium-3 harvesting; storm and aerodynamics research; floating platforms; moons Thalmar, Nivessa, Corvyn, Althira   |
 
 ---
 

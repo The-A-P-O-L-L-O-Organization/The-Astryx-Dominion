@@ -1,3 +1,18 @@
+---
+title: Thalassara System Dossier — Nereida
+category: galactic-atlas
+clearance: Gamma
+project: Aquatic Terraforming & Bioadaptive Operations
+tags:
+  - Thalassara
+  - B-type-Star
+  - Oceanic-Super-Earth
+  - POSEIDON
+  - GAIA-Integration
+  - Aquatic-Research
+summary: Gamma-level dossier on the Thalassara system, Nereida oceanic world, and POSEIDON Spire operations. Focused on observation, monitoring, and safe operational awareness for UL employees. High-level AI control and rogue bioforms are restricted.
+---
+
 # **Thalassara System Dossier — Nereida**
 
 **System Designation:** Cerulea System (UL Sector C-07)  

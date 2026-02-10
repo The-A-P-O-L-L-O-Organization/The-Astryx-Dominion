@@ -1,3 +1,16 @@
+---
+title: Tempus Dossier — Lysara Prime System
+category: galactic-atlas
+clearance: gamma
+project: GAIA / ELEUTHIA
+tags:
+  - UL-internal
+  - adaptive-ecosystems
+  - hybridization
+  - AI-governed-world
+summary: |
+  Internal UL system dossier detailing the Lysara Prime system and Lysara-Epsilon, a controlled oceanic world serving as a primary experimentation crucible for GAIA’s ELEUTHIA subfunction, focused on adaptive life, ecosystem resilience, and evolutionary intervention.
+---
 # **Tempus Dossier — Lysara Prime System**
 
 **System Designation:** Lysara Prime  

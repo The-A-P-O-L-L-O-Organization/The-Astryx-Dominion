@@ -1,3 +1,18 @@
+---
+title: Veridion Cluster Dossier
+category: galactic-atlas
+clearance: gamma
+project: Planetary Observation & AI Research
+tags:
+  - Veridion
+  - G-type-Star
+  - Oceanic-Terrestrial-World
+  - Minerva-Spire
+  - GAIA
+  - Observational-Research
+summary: Gamma-level dossier on the Veridion Cluster and Eidolon Prime, focusing on observational and monitoring tasks for UL employees. High-level AI and experimental control are restricted.
+---
+
 # **Veridion Cluster Dossier**
 
 **System Designation:** Veridion Cluster  
